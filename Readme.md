@@ -13,6 +13,6 @@
 <li>Node.js</li>
 <li>MongoDB</li>
 <h3>Screenshots</h3>
-![image](https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/d67df0c1-0c14-497b-bbd0-f6a1493f3c00)
-![image](https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/d886a917-163f-430c-8555-3950b1398ec3)
-![image](https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/c669ed03-e56c-4a0f-a681-fef63541ce37)
+<img src="https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/d67df0c1-0c14-497b-bbd0-f6a1493f3c00" />
+<img src="https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/d886a917-163f-430c-8555-3950b1398ec3"/>
+<img src="https://github.com/ruturaj1009/fullstack-assignment/assets/81427391/c669ed03-e56c-4a0f-a681-fef63541ce37" />
